@@ -1,6 +1,6 @@
 # Session 4 Day 1 Assignment 2
 
-# SquareRooAssignment
+# SquareRootAssignment
 
 ## In a list of numbers return the square root of all the numbers.
 
